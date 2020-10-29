@@ -29,7 +29,7 @@ projects within the WedgeDB scope.
 %### Project 3:
 {% endcomment %} 
 
-## Select Recent Publications
+## Selected Recent Publications
 
 1. [AnyLog: a Grand Unification of the Internet of Things](http://www.cs.umd.edu/~abadi/papers/anylogAbadiEtAl.pdf)
 By D Abadi, O Arden, F Nawab, M Shadmon.
@@ -55,12 +55,12 @@ Published in SIGMOD 2018.
 ## People
 
 - Faisal Nawab, faculty. [http://nawab.me](http://nawab.me)
-- Natasha Mittal, Ph.D. Student. (2018-now)
+- Natasha Mittal, Ph.D. Student. (2018-now) 
 - Abhishek Singh, Ph.D. Student. (2018-now)
 - Holly Casaletto, Ph.D. Student. (2018-now)
 - Saeed Kargar, Ph. D. Student. (2019-now)
 - Samaa Gazzaz, Ph.D. Student. (2019-now)
-- BinBin Gu, Ph.D. Student. (2019-now)
+- [BinBin Gu](https://tuzijun111.github.io/), Ph.D. Student. (2019-now) 
 
 
 ## Talks
