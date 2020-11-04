@@ -39,8 +39,12 @@
           <li><a href="{{ site.github.repository_url }}">View On <strong>GitHub</strong></a></li>
         </ul>
         {% endif %}
-	      
-	 <?php  include '/assets/php/index.php';     ?>
+	 
+	 <div id="News"></div>
+	      <script>
+          $("#News").load("page//assets/php/index.html")
+    </script>
+
 	      
       </header>
       <section>
